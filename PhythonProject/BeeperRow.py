@@ -1,6 +1,6 @@
 """
 File: BeeperRow.py
-Name:
+Name: Amber Deng
 -------------------------
 This program makes Karel fill up
 Street 1 with beepers
